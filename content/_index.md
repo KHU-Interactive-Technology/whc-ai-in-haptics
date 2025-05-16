@@ -12,20 +12,20 @@ sections:
     content:
       title: AI in Haptics
       text: "**Discuss the future of haptics with AI**"
-      details: "July 16, 2025. \n\nEasily create your conference website with [Hugo Blox](https://hugoblox.com/templates/)"
+      details: "July 08, 2025 \n\nIEEE World Haptics Conference"
       primary_action:
         text: Get Tickets
         url: https://www.eventbrite.com/
         icon: ticket
       items:
-        - name: "Speakers"
-          description: "300+"
-        - name: "Attendees"
-          description: "4,000+"
+        #- name: "Speakers"
+        #  description: "300+"
+        #- name: "Attendees"
+        #  description: "4,000+"
         - name: "Venue"
-          description: "Moscone Center"
+          description: "Suwon Convention Center"
         - name: "Location"
-          description: "San Francisco"
+          description: "Suwon, Korea"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -41,10 +41,9 @@ sections:
 #            brightness: 1.0
   - block: countdown
     content:
-      title: "Hurry, Limited Availability"
-      text: "EARLY BIRD PRICING ENDS IN"
-      text_after: "SAVE UP TO $1,000!"
-      date: '2000-01-01 00:00:00'
+      title: "Until the workshop:"
+      # text_after: "SAVE UP TO $1,000!"
+      date: '2025-07-08 14:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
@@ -55,16 +54,16 @@ sections:
     id: about
     content:
       items:
-        - title: THE YEAR’S CAN’T-MISS EVENT FOR AI COLLABORATION
-          text: AI Summit is coming home to San Francisco. Join us at AI Summit 2024 to explore all the cutting-edge innovation the data cloud has to offer.
+        - title: The Era of AI
+          text: We live in the era of AI. Despite recent technical leaps in AI, its role in the field of haptics has remained relatively limited. This workshop aims to introduce and share recent haptic studies that are closely related to AI.
           # Upload image to `assets/media/` and reference the filename here
-          image: city-daniel-abadia.jpg
-        - title: DISCOVER
-          text: Discover the latest in AI, GenAI, application development and much more.
+          image: 1.png
+        - title: Experiences
+          text: Speakers will share their experiences applying AI modelsㅡranging from early pioneering convolutional neural networks to recent large-scale vision-language modelsㅡto the design and analysis of haptic systems
           # Upload image to `assets/media/` and reference the filename here
           image: conference-headway-F2KRf_QfCqw.jpg
-        - title: HEAR FROM LEADERS REDEFINING THE AI LANDSCAPE
-          text: Hear valuable insights from data and AI experts and business leaders, while discovering the limitless possibilities of data, AI and application collaboration for your organization.
+        - title: DISCUSSION
+          text: Then our workshop will feature an interactive discussion session on noteworthy agendas, such as promoting the use of AI in haptics, exploring future directions, and reflecting on the role of AI in haptice (or vice versa).
           # Upload image to `assets/media/` and reference the filename here
           image: round-table-evangeline-shaw-xRlI-L-kvrw.jpg
           button:
@@ -73,6 +72,38 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: markdown
+    content:
+      text: "Join us for this open workshop, where experts will explore the opportunities and challenges of AI-driven haptic research through engaging talks and discussions. \n\n We hope this workshop will provide valuable insights and knowledge about AI to the haptics community."
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900  pt-8"
+      spacing:
+        padding: ["0rem", "2rem", "5rem", "2rem"]
+      container_max_width: "10xl"
+      css_style: |
+        .prose {
+          max-width: 100%;
+          font-size: 1.25rem; /* text-lg */
+          line-height: 1.75rem;
+        }
+
+        @media (min-width: 768px) {
+          .prose {
+            font-size: 1.5rem; /* text-xl */
+            line-height: 2rem;
+          }
+        }
+  - block: people
+    id: organizer
+    content:
+      title: Organizer
+      text: ""
+      user_groups: ['Organizer']
+    design:
+      show_role: true
+      show_social: true
+      show_interests: false
   - block: people
     id: speakers
     content:
@@ -91,25 +122,6 @@ sections:
         **DAY 1**
         {style="padding-top: 2rem"}
         {{< table path="schedule.csv" header="true" >}}
-        
-        **DAY 2**
-        {style="padding-top: 2rem"}
-
-        {{< table path="schedule.csv" header="true" >}}
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Alice Smith"
-          role: "Researcher at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "It has to be the most insightful conference I've ever attended!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
   - block: logos
     content:
       title: "Sponsors Making This Possible"

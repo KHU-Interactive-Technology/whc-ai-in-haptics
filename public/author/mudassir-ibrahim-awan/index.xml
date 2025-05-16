@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mudassir Ibrahim Awan | Conference | Hugo Theme</title>
+    <link>http://localhost:1313/author/mudassir-ibrahim-awan/</link>
+      <atom:link href="http://localhost:1313/author/mudassir-ibrahim-awan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mudassir Ibrahim Awan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Mudassir Ibrahim Awan</title>
+      <link>http://localhost:1313/author/mudassir-ibrahim-awan/</link>
+    </image>
+    
+  </channel>
+</rss>

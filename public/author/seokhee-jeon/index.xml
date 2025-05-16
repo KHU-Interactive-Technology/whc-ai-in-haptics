@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seokhee Jeon | Conference | Hugo Theme</title>
+    <link>http://localhost:1313/author/seokhee-jeon/</link>
+      <atom:link href="http://localhost:1313/author/seokhee-jeon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seokhee Jeon</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/seokhee-jeon/avatar_hu_b5a011f343c8b837.jpg</url>
+      <title>Seokhee Jeon</title>
+      <link>http://localhost:1313/author/seokhee-jeon/</link>
+    </image>
+    
+  </channel>
+</rss>
