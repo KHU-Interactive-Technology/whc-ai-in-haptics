@@ -37,10 +37,6 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       # filename: "logo.svg"
-    button:
-      enable: true
-      text: "Get Tickets"
-      url: "https://www.eventbrite.com/"
     show_search: false
     show_theme_chooser: false
 
@@ -49,12 +45,12 @@ footer:
   blox: "sitemap"
   content:
     logo:
-      text: "AI SUMMIT 2024"
+      text: "AI in Haptics"
     tagline: "BUILD THE FUTURE TOGETHER WITH AI"
   design:
     columns: 4
-  copyright:
-    notice: '© {year} My Company'
+#  copyright:
+#    notice: '© {year} My Company'
 
 # Localization
 locale:
@@ -66,3 +62,5 @@ extensions:
   convertkit:
     # To use the ConvertKit Newsletter blox, provide your public API Key from your ConvertKit account settings page
     api_key: ""
+  academicons:
+    enable: true

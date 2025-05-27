@@ -24,21 +24,14 @@ footer:
     name: Home
     url: /
     weight: 1
-  - identifier: tickets
-    name: Tickets
-    weight: 2
-  - parent: tickets
-    name: Get Tickets
-    url: https://www.eventbrite.com/
-    weight: 3
   - identifier: legal
     name: Legal
     weight: 3
   - parent: legal
     name: Privacy
-    url: /privacy
+    # url: /privacy
     weight: 1
   - parent: legal
     name: Terms
-    url: /terms
+    # url: /terms
     weight: 2
