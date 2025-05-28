@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Sangho Yoon
+weight: 2
 
 # Role/position
 role: Professor of Culture Technology 
@@ -18,6 +19,9 @@ profiles:
     url: 'mailto:sangho@kaist.ac.kr'
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ejaRQn8AAAAJ&hl=en
+  - icon: home
+    icon_pack: fas
+    url: https://ct.kaist.ac.kr/boards/view/faculty_board/119
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

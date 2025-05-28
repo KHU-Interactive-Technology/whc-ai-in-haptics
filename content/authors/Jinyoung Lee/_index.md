@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Jinyoung Lee
+weight: 7
 
 # Role/position
 role: Master Student

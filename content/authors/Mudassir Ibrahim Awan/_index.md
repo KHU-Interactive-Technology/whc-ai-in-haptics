@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Mudassir Ibrahim Awan
+weight: 7
 
 # Role/position
 role: Master Student

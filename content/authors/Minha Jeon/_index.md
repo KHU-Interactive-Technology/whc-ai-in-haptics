@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Minha Jeon
+weight: 7
 
 # Role/position
 role: Master Student

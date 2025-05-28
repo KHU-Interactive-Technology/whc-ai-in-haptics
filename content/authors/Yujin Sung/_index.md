@@ -1,13 +1,14 @@
 ---
 # Display name
 title: Yujin Sung
+weight: 7
 
 # Role/position
 role: Master Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Kyunghee University
+  - name: KAIST
     url: ''
 
 # Organizational groups that you belong to (for People widget)
