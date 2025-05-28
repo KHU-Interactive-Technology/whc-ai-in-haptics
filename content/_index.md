@@ -88,6 +88,7 @@ sections:
       show_social: true
       show_interests: false
   - block: table
+    id: agenda
   - block: logos
     content:
       title: "Sponsors Making This Possible"
