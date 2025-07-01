@@ -13,7 +13,7 @@ main:
   - name: Speakers
     url: /#speakers
     weight: 30
-  - name: Agenda
+  - name: Time Table
     url: /#agenda
 
 footer:

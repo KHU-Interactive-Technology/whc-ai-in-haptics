@@ -103,7 +103,7 @@ sections:
   - block: newsletter
     content:
       title: "Stay up to date"
-      text: "Be the first to receive conference updates"
+      text: "Be the first to receive conference updates."
       text_cta: "Sign up to our newsletter 🔥"
       button:
         text: "Subscribe"
