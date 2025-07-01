@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Heather Culbertson
+talk_title: AI-Driven Approaches to Haptic Rendering and Perception
 weight: 4
 
 # Role/position

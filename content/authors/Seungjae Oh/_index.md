@@ -1,10 +1,13 @@
 ---
 # Display name
 title: Seungjae Oh
+talk_title: ohhoho
 weight: 1
 
 # Role/position
 role: Assistant Professor
+
+
 
 # Organizations/Affiliations
 organizations:

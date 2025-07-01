@@ -68,7 +68,8 @@
           </div>
 
           <h3 class="mt-8 font-display text-xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
-            <a href="{{$person.Page.RelPermalink}}">{{.Title}}</a>
+            <!-- <a href="{{$person.Page.RelPermalink}}">{{.Title}}</a> -->
+            <a href="{{$person.Page.RelPermalink}}">{{Params.talk_title}}</a>
           </h3>
 
           {{ if ((and $show_role .Params.role) | and .Params.organizations) }}
