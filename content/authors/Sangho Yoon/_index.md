@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sangho Yoon
+title: Sang Ho Yoon
 weight: 2
 
 # Role/position
