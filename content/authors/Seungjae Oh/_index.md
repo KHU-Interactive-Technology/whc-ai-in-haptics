@@ -4,7 +4,7 @@ title: Seungjae Oh
 weight: 1
 
 # Role/position
-role: Professor of Software Engineering
+role: Professor of Software Convergence Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -23,8 +23,15 @@ profiles:
     icon_pack: fas
     url: https://lokilike.netlify.app/research/
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Organizer
 ---
+
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
+distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
+self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
