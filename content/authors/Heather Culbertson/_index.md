@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Heather Culbertson
-talk_title: AI-Driven Approaches to Haptic Rendering and Perception
 weight: 4
 
 # Role/position
@@ -27,3 +26,7 @@ profiles:
 user_groups:
   - Speakers
 ---
+
+### AI-Driven Approaches to Haptic Rendering and Perception
+
+Touch gives us a rich sense of the world, allowing us to discern texture, shape, and material qualities through subtle cues like vibration and force. However, this complexity is often absent from virtual environments, limiting immersion and realism. In this talk, I will explore how machine learning is helping to bridge this sensory gap by enabling more expressive and scalable haptic rendering systems. Rather than relying on complex physics-based simulations or extensive manual tuning, data-driven models learn the mapping between user interactions, such as force and motion, and the resulting haptic feedback. I’ll highlight our recent work using a deep convolutional generative adversarial network (GAN) to create realistic virtual textures in a user-guided, preference-driven process. This approach allows us to synthesize entirely new haptic textures that match or exceed the realism of prior data-driven models, without requiring physical texture recordings for each case. I will also present our development of an active acoustic sensing system that uses sound-based feedback to detect contact state, object pose, and material properties in robotic manipulation—enabling robots to operate effectively even in visually occluded or cluttered scenes. 

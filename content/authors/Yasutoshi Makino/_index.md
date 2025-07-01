@@ -1,10 +1,10 @@
 ---
 # Display name
 title: Yasutoshi Makino
-weight: 4
+weight: 10
 
 # Role/position
-role: Professor of Frontier Sciences
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
