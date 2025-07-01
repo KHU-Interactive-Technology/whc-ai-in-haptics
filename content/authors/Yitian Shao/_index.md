@@ -16,7 +16,7 @@ organizations:
 profiles:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:mohamad.eid@nyu.edu'
+    url: 'mailto:shaoyitian@hit.edu.cn'
   - icon: home
     icon_pack: fas
     url: https://faculty.hitsz.edu.cn/YShao?lang=en
