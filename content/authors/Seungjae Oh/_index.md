@@ -1,13 +1,11 @@
 ---
 # Display name
 title: Seungjae Oh
-talk_title: ohhoho
+# talk_title: Sensing Contact Force from
 weight: 1
 
 # Role/position
 role: Assistant Professor
-
-
 
 # Organizations/Affiliations
 organizations:
@@ -34,8 +32,6 @@ highlight_name: true
 user_groups:
   - Organizer
 ---
-#### Sensing Contact Force from
+#### Estimating Contact Force from Capacitive Sensor Data 
 <br>
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+We introduce a new contract force estimation approach using capacitive sensors. The operation principle of this novel sensing technique is based on the charactoristics of mutual capacitance touch screens. Due to the deformation of contact body parts, capactive images are generally enlarged as the force increases. Interestingly, we obsearve that capacitive sensor values at the centroid of the capacitive images decrease after tightly coupled to capacitive sensors. 
