@@ -3,10 +3,6 @@
 title: Seokhee Jeon
 weight: 3
 
-# Full name (for SEO)
-first_name: Seokhee
-last_name: Jeon
-
 # Role/position/tagline
 role: Professor
 
