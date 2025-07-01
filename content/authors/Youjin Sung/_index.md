@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Youjin Sung
-weight: 7
+weight: 11
 
 # Role/position
 role: PhD Student

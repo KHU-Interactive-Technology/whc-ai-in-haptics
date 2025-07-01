@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yasutoshi Makino
-weight: 10
+weight: 6
 
 # Role/position
 role: Associate Professor

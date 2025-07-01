@@ -1,7 +1,7 @@
 ---
 # Display name
 title: MingXin Zhang
-weight: 11
+weight: 7
 
 # Role/position
 role: Ph.D Student

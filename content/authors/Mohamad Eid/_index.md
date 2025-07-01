@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Mohamad Eid
-weight: 8
+weight: 3
 
 # Role/position
 role: Associate Professor

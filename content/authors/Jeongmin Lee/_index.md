@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jeongmin Lee
-weight: 7
+weight: 12
 
 # Role/position
 role: Master Student

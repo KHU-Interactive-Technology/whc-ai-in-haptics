@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Mudassir Ibrahim Awan
-weight: 7
+weight: 10
 
 # Role/position
 role: Ph.D Student

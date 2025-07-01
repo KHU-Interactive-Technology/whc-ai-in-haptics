@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yasemin Vardar
-weight: 6
+weight: 8
 
 # Role/position
 role: Professor of Cognitive Robotics
