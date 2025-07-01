@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sang Ho Yoon
+title: SangHo Yoon
 weight: 2
 
 # Role/position
-role: Professor of Culture Technology 
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:

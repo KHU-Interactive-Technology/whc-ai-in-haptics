@@ -4,7 +4,7 @@ title: Heather Culbertson
 weight: 4
 
 # Role/position
-role: Professor of Computer Science, and Biomedical Engineering
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:

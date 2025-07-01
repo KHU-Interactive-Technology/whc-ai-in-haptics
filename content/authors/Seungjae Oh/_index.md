@@ -4,7 +4,7 @@ title: Seungjae Oh
 weight: 1
 
 # Role/position
-role: Professor of Software Convergence Engineering
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:

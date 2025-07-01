@@ -8,7 +8,7 @@ first_name: Seokhee
 last_name: Jeon
 
 # Role/position/tagline
-role: Professor of Computer Engineering
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
