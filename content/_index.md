@@ -47,7 +47,7 @@ sections:
     content:
       title: "Join our discord for AI research interest group in the haptics community"
       # Image path relative to assets/media/ folder
-      logo_folder: 'sponsors/'
+      logo_folder: 'qr/'
     design:
       card:
         # Card background color (CSS class)
