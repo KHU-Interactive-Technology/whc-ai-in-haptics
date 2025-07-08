@@ -5,7 +5,10 @@
     <loc>http://localhost:1313/author/seungjae-oh/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/sangho-yoon/</loc>
+    <loc>http://localhost:1313/author/sang-ho-yoon/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/mohamad-eid/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/seokhee-jeon/</loc>
@@ -14,31 +17,28 @@
     <loc>http://localhost:1313/author/heather-culbertson/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/mohamad-eid/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/yasemin-vardar/</loc>
+    <loc>http://localhost:1313/author/yitian-shao/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/yasutoshi-makino/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/yitian-shao/</loc>
+    <loc>http://localhost:1313/author/mingxin-zhang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/jeongmin-lee/</loc>
+    <loc>http://localhost:1313/author/yasemin-vardar/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/jinyoung-lee/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/minha-jeon/</loc>
+    <loc>http://localhost:1313/author/li-zou/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/mudassir-ibrahim-awan/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/yujin-sung/</loc>
+    <loc>http://localhost:1313/author/youjin-sung/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/jeongmin-lee/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>

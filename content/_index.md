@@ -45,7 +45,7 @@ sections:
 #            brightness: 1.0
   - block: logos
     content:
-      title: "Join our discord for AI research interest group in the haptics community"
+      title: "Join our discord channel for AI research interest group in the haptics community"
       # Image path relative to assets/media/ folder
       logo_folder: 'qr/'
     design:
