@@ -43,16 +43,21 @@ sections:
 #          filename: ""
 #          filters:
 #            brightness: 1.0
-  - block: logos
+
+  - block: cta-image-paragraph
+    id: discord
     content:
-      title: "Join our discord channel for AI research interest group in the haptics community"
-      # Image path relative to assets/media/ folder
-      logo_folder: 'qr/'
+      items:
+        - title: Join our discord channel
+          text: We open this channel to formulate an AI research interest group within the haptics community. Please feel free to join the AI in Haptics channel and share your experience and knowledge after the workshop. Also, we aim to write a review paper with anyone interested in it.       
+          # Upload image to `assets/media/` and reference the filename here
+          image: adobe-express-qr-code_discord.png
+      design:
+        spacing:
+          padding: ["3rem", "3rem", "3rem", "3rem"]
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
   # - block: countdown
   #   content:
   #     title: "Until the workshop:"
