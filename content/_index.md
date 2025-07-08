@@ -22,6 +22,7 @@ sections:
           description: "Suwon Convention Center"
         - name: "Location"
           description: "Suwon, Korea"
+        - image: 1.png
       design:
         container_max_width: "10xl"
         css_style: |
@@ -42,17 +43,27 @@ sections:
 #          filename: ""
 #          filters:
 #            brightness: 1.0
-  - block: countdown
+  - block: logos
     content:
-      title: "Until the workshop:"
-      # text_after: "SAVE UP TO $1,000!"
-      date: '2025-07-08 14:00:00'
+      title: "Join our discord for AI research interest group in the haptics community"
+      # Image path relative to assets/media/ folder
+      logo_folder: 'sponsors/'
     design:
-      # Section background color (CSS class)
-      css_class: "bg-primary-500"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
+  # - block: countdown
+  #   content:
+  #     title: "Until the workshop:"
+  #     # text_after: "SAVE UP TO $1,000!"
+  #     date: '2025-07-08 14:00:00'
+  #   design:
+  #     # Section background color (CSS class)
+  #     css_class: "bg-primary-500"
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: ["1rem", 0, "1rem", 0]
   - block: cta-image-paragraph
     id: about
     content:
